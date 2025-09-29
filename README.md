@@ -68,7 +68,7 @@ The aim is to demonstrate skills in **data analysis, visualization, and storytel
 
 ## 📑 SQL Scripts  
 The SQL queries used for data extraction, transformation, and analysis are available in:  
- 
+ SQLQuery.sql
 
 ---
 
