@@ -16,19 +16,18 @@ The aim is to demonstrate skills in **data analysis, visualization, and storytel
 
 ## 🗂️ Project Structure  
 
-Pizza-Sales-Analysis/
+ Pizza-Sales-Analysis/
 ├── dashboard_screenshots/
-│ ├── Dashboard_home.png
-│ └── Best_worst_sellers.png
+│   ├── Dashboard_home.png
+│   └── Best_worst_sellers.png
 ├── data/
-│ └── pizza_sales.csv
+│   └── pizza_sales.csv
 ├── Documents/
-│ └── SQL_PIZZA_SALES.docx
+│   └── SQL_PIZZA_SALES.docx
 ├── power bi/
-│ └── pizza_sales_dashboard.pbix
+│   └── pizza_sales_dashboard.pbix
 └── sql/
-└── SQLQuery.sql
-
+    └── SQLQuery.sql
 
 ---
 
