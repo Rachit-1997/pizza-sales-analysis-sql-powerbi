@@ -59,16 +59,16 @@ The aim is to demonstrate skills in **data analysis, visualization, and storytel
 ## 📸 Dashboard Snapshots  
 
 ### 1️⃣ Home Dashboard – Sales Trends & Performance  
-![Dashboard Home](dashboard_screenshots/Dashboard_home.png)  
+ 
 
 ### 2️⃣ Best & Worst Sellers Dashboard  
-![Best Worst Sellers](dashboard_screenshots/Best_worst_sellers.png)  
+  
 
 ---
 
 ## 📑 SQL Scripts  
 The SQL queries used for data extraction, transformation, and analysis are available in:  
-📄 **[SQLQuery.sql](sql/SQLQuery.sql)**  
+ 
 
 ---
 
