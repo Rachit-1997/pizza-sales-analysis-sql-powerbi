@@ -16,6 +16,7 @@ The aim is to demonstrate skills in **data analysis, visualization, and storytel
 
 ## 🗂️ Project Structure  
 
+```
  Pizza-Sales-Analysis/
 ├── dashboard_screenshots/
 │   ├── Dashboard_home.png
@@ -28,7 +29,7 @@ The aim is to demonstrate skills in **data analysis, visualization, and storytel
 │   └── pizza_sales_dashboard.pbix
 └── sql/
     └── SQLQuery.sql
-
+```
 ---
 
 ## 📊 Key Insights & Results  
